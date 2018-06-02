@@ -1,0 +1,678 @@
+* commit e9e27533d30c8f9aacdbb4b498e93c3ae6be765a
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Tue Jan 3 01:01:47 2017 +0200
+| 
+|     A work makefile
+|  
+* commit 89270cf9091dd44fa82bd4a8e51d00a4f22b1ac9
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Tue Jan 3 00:09:02 2017 +0200
+| 
+|     A work makefile
+|  
+* commit 4c47fe4b3d4fc5aad42b1abf99041381aedc1af2
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Tue Jan 3 00:07:27 2017 +0200
+| 
+|     A work makefile
+|  
+* commit 7e4c908e6202877ee889a3011076432a97aded7a
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 23:45:46 2017 +0200
+| 
+|     friend class "boost" - edit
+|  
+* commit 9f967d6c918520849e8ef562e78f502a47f79bbb
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 22:51:55 2017 +0200
+| 
+|     friend class "boost" - edit
+|  
+* commit 1f41d56594a2aa6d56fe32b2d3c09a0b8b9417d0
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 22:29:26 2017 +0200
+| 
+|     add makefile
+|  
+* commit 962bdff52ac6b484fd2722e5b76703a0d69d7c44
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 22:24:21 2017 +0200
+| 
+|     add makefile
+|  
+* commit 8a0955580adff973e25e4f7d125c6a67152f6164
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 22:14:04 2017 +0200
+| 
+|     add makefile
+|  
+* commit b246bc2d10b142ada4a5dcf4419f361c3fd83d4a
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 20:13:29 2017 +0200
+| 
+|     add makefile
+|  
+* commit 6ff389aa0f988dc958d538df9c30951c9fa1d5ce
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 20:10:48 2017 +0200
+| 
+|     FINISH ?!
+|  
+* commit 99ea608949c6dc7b1fdad53943842f1c9017524f
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 19:16:16 2017 +0200
+| 
+|     fix clock
+|  
+* commit 19933880ee776e7a574e91f564473983761eb066
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 11:28:52 2017 +0200
+| 
+|     fix clock
+|  
+* commit 9c5b297273d81ab14a578ad07de77f96cb8b2947
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 10:40:14 2017 +0200
+| 
+|     almost finish FINISH
+|  
+* commit 07e577c609a5765a5f2111282138942a721096e1
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Jan 2 00:04:35 2017 +0200
+| 
+|     almost finish FINISH
+|  
+* commit 05d3e53d3c6cb7d92502d85efeaeef30d404c15e
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 23:42:51 2017 +0200
+| 
+|     FINISH "Client"
+|  
+* commit 6b92dcb7c8eddd3a1df5362c21521f5066bb5d2b
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 23:25:41 2017 +0200
+| 
+|     edit "Client"
+|  
+* commit a2fc4e3d044c69db7ead65615cb042a90498789d
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 23:14:31 2017 +0200
+| 
+|     edit "Client"
+|  
+* commit be0681d5baccef519bab8d6fa2c11b658d3fba11
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Sun Jan 1 22:51:49 2017 +0200
+| 
+|     c make server
+|  
+* commit eec956ad3d2bd0c9ca55be77599e76cbd5c85d60
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 22:48:04 2017 +0200
+| 
+|     edit "Client"
+|  
+* commit 05122e97f353b811a355d643b7c4a0949a191c67
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 22:05:03 2017 +0200
+| 
+|     edit "Client"
+|  
+* commit 05a5c76a9974feb3fd4e0ce7e00861368f3df591
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 20:32:03 2017 +0200
+| 
+|     edit "Client"
+|  
+* commit 6a0f364ce414192a7e1e800d795b522967c17e3e
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sun Jan 1 20:22:33 2017 +0200
+| 
+|     add "Velocity"
+|    
+*   commit 551a56be93570d6bc857cae318fed0134eb3d0ba
+|\  Merge: 3831d73 b430556
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Sun Jan 1 19:50:49 2017 +0200
+| | 
+| |     Merge remote-tracking branch 'origin/master'
+| |     
+| |     # Conflicts:
+| |     #	src/Menu.cpp
+| |     #	src/Ride.cpp
+| |     #	src/TaxiCenter.cpp
+| |   
+| * commit b4305565dd734c88491dbcdcaae26ad29525e4c4
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Sun Jan 1 19:42:30 2017 +0200
+| | 
+| |     c make server
+| |   
+| * commit adc3e15d636d495803b3cd860f1c23a243bd6707
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Sun Jan 1 19:38:27 2017 +0200
+| | 
+| |     c make server
+| |     
+| *   commit 138c1e6bddf545290652a7cbbe587bc51753fb63
+| |\  Merge: fb9b136 ceb33c3
+| | | Author: meibir <meital.birka@gmail.com>
+| | | Date:   Sun Jan 1 17:40:45 2017 +0200
+| | | 
+| | |     Merge remote-tracking branch 'origin/master'
+| | |      
+| * |   commit fb9b136dc175aef295ce2d157d5fd20f44dd6802
+| |\ \  Merge: b880289 7c72685
+| | | | Author: meibir <meital.birka@gmail.com>
+| | | | Date:   Sat Dec 31 17:15:38 2016 +0200
+| | | | 
+| | | |     Merge remote-tracking branch 'origin/master'
+| | | |       
+| * | |   commit b88028917b5b988fb00dc3aff15eccbb543b5f47
+| |\ \ \  Merge: 4a9faf9 9195849
+| | | | | Author: meibir <meital.birka@gmail.com>
+| | | | | Date:   Sat Dec 31 14:35:45 2016 +0200
+| | | | | 
+| | | | |     Merge remote-tracking branch 'origin/master'
+| | | | |        
+| * | | |   commit 4a9faf92f6af85fee7c340ebe486e5149b6521bd
+| |\ \ \ \  Merge: 7696747 824da66
+| | | | | | Author: meibir <meital.birka@gmail.com>
+| | | | | | Date:   Sat Dec 31 14:07:50 2016 +0200
+| | | | | | 
+| | | | | |     Merge remote-tracking branch 'origin/master'
+| | | | | |     
+| | | | | |     # Conflicts:
+| | | | | |     #	src/client.cpp
+| | | | | |         
+| * | | | |   commit 7696747e876cd2b4f7c6694739006162a6570fc6
+| |\ \ \ \ \  Merge: 8d2376c f7e3065
+| | | | | | | Author: meibir <meital.birka@gmail.com>
+| | | | | | | Date:   Sat Dec 31 12:24:49 2016 +0200
+| | | | | | | 
+| | | | | | |     Merge remote-tracking branch 'origin/master'
+| | | | | | |        
+| * | | | | | commit 8d2376cb3408f211b19c7e320abf8b0409cee677
+| | | | | | | Author: meibir <meital.birka@gmail.com>
+| | | | | | | Date:   Sat Dec 31 12:16:15 2016 +0200
+| | | | | | | 
+| | | | | | |     Merge branch 'master' of /home/mei/ClionProjects/Taxi-Center with conflicts.
+| | | | | | |        
+* | | | | | | commit 3831d7323f42b52326278c781cc97a194d15e85c
+| | | | | | | Author: Noam Simon <simonoam@gmail.com>
+| | | | | | | Date:   Sun Jan 1 19:44:30 2017 +0200
+| | | | | | | 
+| | | | | | |     almost done
+| | | | | | |        
+* | | | | | | commit 5a2f148512df81099484de164029eae86c6ca9f5
+| |_|_|_|_|/  Author: Noam Simon <simonoam@gmail.com>
+|/| | | | |   Date:   Sun Jan 1 17:38:46 2017 +0200
+| | | | | |   
+| | | | | |       almost done
+| | | | | |       
+* | | | | | commit ceb33c3ccea7ea2f22af9a99385db42b32f269ba
+| |_|_|_|/  Author: Noam Simon <simonoam@gmail.com>
+|/| | | |   Date:   Sun Jan 1 02:31:51 2017 +0200
+| | | | |   
+| | | | |       almost done
+| | | | |      
+* | | | | commit 7c726852c01fba0de75a4607731969e3597a3f3a
+| |_|_|/  Author: Noam Simon <simonoam@gmail.com>
+|/| | |   Date:   Sat Dec 31 17:14:38 2016 +0200
+| | | |   
+| | | |       some fixes
+| | | |     
+* | | | commit 9195849f65e4ff26882c77a89af847217216002f
+| |_|/  Author: Noam Simon <simonoam@gmail.com>
+|/| |   Date:   Sat Dec 31 14:35:12 2016 +0200
+| | |   
+| | |       "advance" - edit
+| | |    
+* | | commit 824da661d4f57d28ffb97d88164307412e2959cd
+| |/  Author: Noam Simon <simonoam@gmail.com>
+|/|   Date:   Sat Dec 31 14:06:47 2016 +0200
+| |   
+| |       "advance" - edit
+| |   
+* | commit f7e30657515f143bdb1a8cf538d40b53af05742e
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Sat Dec 31 12:23:33 2016 +0200
+| | 
+| |     after marge
+| |   
+* | commit be1a3344de054f55f0bff7e20d89b21a8d1a9907
+|/  Author: Noam Simon <simonoam@gmail.com>
+|   Date:   Sat Dec 31 12:21:06 2016 +0200
+|   
+|       after marge
+|  
+* commit 2876949e0741f9a7bd07acafb12983513d31b969
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Sat Dec 31 12:12:43 2016 +0200
+| 
+|     after marge
+|  
+* commit 2db649b5b183c929f24c8fc8802ab4f8c297b3b9
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Sat Dec 31 00:01:24 2016 +0200
+| 
+|     c make server
+|  
+* commit 07d2ece001920efe574f133b468947ffafc0e55e
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Fri Dec 30 17:38:49 2016 +0200
+| 
+|     c make server
+|  
+* commit 429a3a8428d8e1540d4320d34ad550fca16fca14
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Fri Dec 30 17:37:37 2016 +0200
+| 
+|     c make server
+|  
+* commit 3e63c029b3febd89ccd8f07e4ac5f429d5d7afec
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Fri Dec 30 14:58:03 2016 +0200
+| 
+|     c make server
+|  
+* commit 32302f37b42420a6a988f76198a8e92d771b32a2
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Fri Dec 30 12:34:11 2016 +0200
+| 
+|     almost finish serialization
+|  
+* commit 3c14c75d7208e99296e257d14c9e07535c418aa4
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Fri Dec 30 12:28:33 2016 +0200
+| 
+|     almost finish serialization
+|  
+* commit 4e3c771f519f8115a740a25ba2ca147eb81bba3e
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Fri Dec 30 12:00:42 2016 +0200
+| 
+|     c make server
+|  
+* commit 4c723d79350c48e4334d4892ccc34ba679c24333
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Fri Dec 30 11:02:45 2016 +0200
+| 
+|     create "Serialization" class
+|  
+* commit 9e895dd45d0eff796176cdeffccc16a39931af65
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Thu Dec 29 21:02:25 2016 +0200
+| 
+|     create "Serialization" class
+|  
+* commit a02526be0b3e4d59338aec52aac9ddaf95aaa145
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Thu Dec 29 20:08:12 2016 +0200
+| 
+|     redesign
+|    
+*   commit ad97c6d1aea6752381a2b4b23fc198ac4939fc0c
+|\  Merge: beccd54 f778837
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Thu Dec 29 19:51:16 2016 +0200
+| | 
+| |     Merge remote-tracking branch 'origin/master'
+| |     
+| |     # Conflicts:
+| |     #	src/CMakeLists.txt
+| |   
+| * commit f7788371c2a1f6505f5797dc31087577a5ce8f17
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Thu Dec 29 18:44:42 2016 +0200
+| | 
+| |     c make server
+| |   
+| * commit 2c1878713051e63a0c5b64e226c8a1aa9806d64f
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Thu Dec 29 18:43:28 2016 +0200
+| | 
+| |     c make server
+| |   
+* | commit beccd540e638de0955d73e2af27013b5f02116c6
+|/  Author: Noam Simon <simonoam@gmail.com>
+|   Date:   Thu Dec 29 19:50:41 2016 +0200
+|   
+|       add- sockets
+|  
+* commit a9f6b3ea69c30165cf78c625ddedf3dc4890a2f2
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Thu Dec 29 18:39:34 2016 +0200
+| 
+|     c make server
+|  
+* commit 7eae98294186ee7395b5edf8dfc786b5bd2d489c
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Thu Dec 29 18:25:50 2016 +0200
+| 
+|     c make server
+|    
+*   commit 5f1f098872e28b852e2253086d336d630b3e2e22
+|\  Merge: b1100ce 6ee3bda
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Thu Dec 29 18:24:06 2016 +0200
+| | 
+| |     Merge remote-tracking branch 'origin/master'
+| |     
+| |     # Conflicts:
+| |     #	src/CMakeLists.txt
+| |     
+| *   commit 6ee3bdaa3fa9d5876c59bb163f529780c42dd74f
+| |\  Merge: c47c55d b12e7da
+| | | Author: Noam190 <simonno@macs.biu.ac.il>
+| | | Date:   Thu Dec 29 18:14:13 2016 +0200
+| | | 
+| | |     Merge pull request #4 from Noam190/client-driver-edit
+| | |     
+| | |     Client drive edit
+| | |    
+| | * commit b12e7da85cac5b0a389ef17a92c2a3359085f94d
+| | | Author: Noam Simon <simonoam@gmail.com>
+| | | Date:   Thu Dec 29 18:08:11 2016 +0200
+| | | 
+| | |     pre-serialization
+| | |    
+| | * commit 305e3950f9af48b37ea26b70ffbaa6bb53ebfb17
+| | | Author: Noam Simon <simonoam@gmail.com>
+| | | Date:   Wed Dec 28 18:50:45 2016 +0200
+| | | 
+| | |     serialization - basic
+| | |    
+| | * commit bdfb0facaf4192fa9a9f34a4a5c28352d30003c8
+| |/  Author: Noam Simon <simonoam@gmail.com>
+| |   Date:   Tue Dec 27 20:18:09 2016 +0200
+| |   
+| |       Merge branch 'master' of /home/noam/ClionProjects/Taxi-Center with conflicts.
+| |   
+* | commit b1100ceccef19da85551124147dd595765fa2277
+| | Author: meibir <meital.birka@gmail.com>
+| | Date:   Thu Dec 29 18:23:20 2016 +0200
+| | 
+| |     add cons
+| |   
+* | commit e92545955a52914732fabb6bc3073698cfcfb7a4
+|/  Author: meibir <meital.birka@gmail.com>
+|   Date:   Thu Dec 29 18:19:57 2016 +0200
+|   
+|       add cons
+|  
+* commit c47c55dcea2acbb3ee28bd2b8038dc5b8e1057cf
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Tue Dec 27 20:14:53 2016 +0200
+| 
+|     add cons
+|  
+* commit e6701835c82a26bd8bfe80145dd8c2f91d177bed
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Tue Dec 27 19:59:39 2016 +0200
+| 
+|     add cons
+|  
+* commit cc8884321de60bfec700f4d94eacea03b8c0226f
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Tue Dec 27 18:27:29 2016 +0200
+| 
+|     serialization - basic
+|  
+* commit 98ac9c76ec01fbf233e100dc620a7e17f5ba1cda
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Tue Dec 27 18:26:23 2016 +0200
+| 
+|     add cons
+|    
+*   commit dbab32f28486725662aa7b0c77d199fa66ca7766
+|\  Merge: 29790b7 ab85bf6
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Tue Dec 27 18:16:51 2016 +0200
+| | 
+| |     Merge remote-tracking branch 'origin/master'
+| |   
+| * commit ab85bf6f12290fd3c8735e6da654d27f09a472dc
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 16:47:31 2016 +0200
+| | 
+| |     Delete vcs.xml
+| |   
+| * commit ae6842d534e99133f12999c0fa4c34f4faed7af6
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 16:47:24 2016 +0200
+| | 
+| |     Delete modules.xml
+| |   
+| * commit 205c32bb61edbb4610cde4a6fdde74fe444b7786
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 16:47:18 2016 +0200
+| | 
+| |     Delete misc.xml
+| |   
+| * commit 60a6356ede32930026419d1fc9f855daf5b0c341
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 16:47:10 2016 +0200
+| | 
+| |     Delete Taxi-Center.iml
+| |   
+| * commit a5d2e597eb237ebfb13f2ada1c7196a4a6e6beef
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 16:47:02 2016 +0200
+| | 
+| |     Delete noam.xml
+| |   
+* | commit 29790b7ed6541996017ca592ee32c7a95e658ca2
+|/  Author: Noam Simon <simonoam@gmail.com>
+|   Date:   Tue Dec 27 18:15:18 2016 +0200
+|   
+|       serialization - basic
+|  
+* commit 80cde39610a48f9a7e9e3a152465b71b364624ee
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Tue Dec 27 16:37:14 2016 +0200
+| 
+|     serialization - basic
+|  
+* commit 7d805aecf809600ae58fd626d0d46277c35f67a9
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Tue Dec 27 15:58:22 2016 +0200
+| 
+|     serialization
+|    
+*   commit 182ce73b95df951725586c154105648a0e28ec21
+|\  Merge: 005f9dd 89d053f
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Tue Dec 27 15:45:44 2016 +0200
+| | 
+| |     Merge pull request #2 from Noam190/SerializationPoint
+| |     
+| |     Serialization point
+| |   
+| * commit 89d053f85d769fa077bf51b3fbdc32fb96731deb
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Tue Dec 27 15:40:55 2016 +0200
+| | 
+| |     serialization
+| |   
+| * commit b382087982c91791eba6c348dbbfb4cb2b339597
+| | Author: Noam Simon <simonoam@gmail.com>
+| | Date:   Tue Dec 27 00:15:44 2016 +0200
+| | 
+| |     serialization
+| |   
+| * commit ad644f7f3cd37c1baeea75b30d27b63ea634be16
+|/  Author: Noam190 <simonno@macs.biu.ac.il>
+|   Date:   Tue Dec 27 00:15:07 2016 +0200
+|   
+|       serialization
+|  
+* commit 005f9ddcffff481885d818321ce63e0df2fdbe67
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Mon Dec 26 23:27:50 2016 +0200
+| 
+|     hiii 2
+|  
+* commit 5a243f9f49896d290b1db7fbbd82c8156407b4f2
+| Author: Noam Simon <simonoam@gmail.com>
+| Date:   Mon Dec 26 23:24:22 2016 +0200
+| 
+|     last check
+|  
+* commit c74d7512989ae9494d8bd8b61687b8aecc96c49e
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 23:03:36 2016 +0200
+| 
+|     last check
+|    
+*   commit b6f82f7c3cc27bea037eeb5929a34092ee1c89df
+|\  Merge: 9e64902 09445a1
+| | Author: Noam Simon <simonoam@gamil.com>
+| | Date:   Mon Dec 26 23:02:17 2016 +0200
+| | 
+| |     Merge branch 'A_litte_edit'
+| |   
+| * commit 09445a14de1192254a89a75f775f95705fcb95b4
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Mon Dec 26 22:57:20 2016 +0200
+| | 
+| |     change
+| |   
+* | commit 9e64902097b508da2bb8259c555113f813a2fa5d
+|/  Author: meibir <meital.birka@gmail.com>
+|   Date:   Mon Dec 26 22:53:07 2016 +0200
+|   
+|       hiii 2
+|  
+* commit 264563d767705124e85a981340b341e2057fcda3
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 22:49:08 2016 +0200
+| 
+|     check
+|  
+* commit 7389119c9a613838917c355d7b45613cc30c4e1f
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Mon Dec 26 22:45:44 2016 +0200
+| 
+|     hiii 2
+|  
+* commit 72970af3d429616d35a25160368f7c38f86ab87e
+| Author: meibir <meital.birka@gmail.com>
+| Date:   Mon Dec 26 22:42:04 2016 +0200
+| 
+|     hiii 2
+|  
+* commit 3849932825d78436d45e72d11c83e5942a6b16fa
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:56:52 2016 +0200
+| 
+|     typo
+|  
+* commit d06e2d692dd970053a9d80276efd9545ad13dde0
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:52:08 2016 +0200
+| 
+|     README edit
+|  
+* commit 4e391d86958d01eec6f168c60360b6df58eb4949
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:44:20 2016 +0200
+| 
+|     test
+|    
+*   commit 0517bcaaf2d5df314b317d83d00e0b9b883e66d1
+|\  Merge: 6e8c383 8055c10
+| | Author: Noam Simon <simonoam@gamil.com>
+| | Date:   Mon Dec 26 21:35:15 2016 +0200
+| | 
+| |     Merge remote-tracking branch 'origin/master'
+| |   
+| * commit 8055c1088a7bb9657f9ad194e824dbab8e172061
+| | Author: Noam190 <simonno@macs.biu.ac.il>
+| | Date:   Mon Dec 26 21:33:29 2016 +0200
+| | 
+| |     nice
+| |   
+* | commit 6e8c383d645e746738c66ceb983c2bcd80a11e0d
+|/  Author: Noam Simon <simonoam@gamil.com>
+|   Date:   Mon Dec 26 21:30:43 2016 +0200
+|   
+|       test
+|  
+* commit 5342bf6750c71415d282bf879968a31d3076defe
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:23:02 2016 +0200
+| 
+|     hello
+|  
+* commit d13ad981a3a999ab143c410e890f4c758d8be330
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:04:05 2016 +0200
+| 
+|     commit
+|  
+* commit 272741a47499f5d948ca70f2795a21fe2d2e4c9e
+| Author: Noam Simon <simonoam@gamil.com>
+| Date:   Mon Dec 26 21:01:29 2016 +0200
+| 
+|     commit
+|  
+* commit 2371d4bf1a2c0ebccb32855774600f72cfe65da8
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 20:58:25 2016 +0200
+| 
+|     commit
+|  
+* commit d3f50d99ae8f65270763e31d7cb98601add035cb
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 20:50:59 2016 +0200
+| 
+|     commit
+|  
+* commit 7461c7bc965ee381043fc3d8813161196bcf6af0
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 19:48:31 2016 +0200
+| 
+|     Add files via upload
+|  
+* commit 7afb822c457a65fe55cf023ddd5492da8c70c8e6
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 19:47:38 2016 +0200
+| 
+|     Delete x
+|  
+* commit 46474f6e7851faedf54406c7a48deb7e522e1d3d
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 19:47:12 2016 +0200
+| 
+|     Delete t
+|  
+* commit f3f09f84bc3d62b8e92c79e46bedf72e1d0dd4ab
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 19:45:58 2016 +0200
+| 
+|     Add files via upload
+|  
+* commit 618c63b95c71e6ba50ee56fd7b3f7c72cfd70c57
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Mon Dec 26 19:45:30 2016 +0200
+| 
+|     x
+|  
+* commit 757677372c717c9130c363a2f9533b9a84c727c4
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Sun Dec 25 19:44:30 2016 +0200
+| 
+|     upload src files
+|  
+* commit 012b34f3a351b876db5b64a8efa7146b7b0f14cd
+| Author: Noam190 <simonno@macs.biu.ac.il>
+| Date:   Sun Dec 25 19:43:15 2016 +0200
+| 
+|     test
+|  
+* commit 95a523bd39de9a479b978cbd3a1aaaa3e6b2fb1e
+  Author: Noam190 <simonno@macs.biu.ac.il>
+  Date:   Sun Dec 25 19:42:09 2016 +0200
+  
+      Create README.md
