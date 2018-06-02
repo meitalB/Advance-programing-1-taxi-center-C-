@@ -1,0 +1,24 @@
+Statistics:
+**The number when we first started to notice difference: 2^22;
+
+**The nunber where java couldn't take it any more: 2^24;
+
+Cpp Vs Java at input of 2^22:
+		For cpp it took 0.66 seconds.
+		For java it took 1.35 seconds.
+
+Cpp Vs Java at input of 2^23:
+		For cpp it took 1.26 seconds.
+		For java it took 4.05 seconds.
+
+Cpp Vs Java at input of 2^24:
+		For cpp it took 1 minute and 45 seconds which means cpp crashed
+		because it exceeded the time limit
+		For java it took 4 minute and 26 seconds which means java crashed
+		because it exceeded the time limit.
+
+Cpp Vs Java at input of 2^25:
+		For cpp it took 3 minute and 27 seconds which means cpp crashed
+		because it exceeded the time limit.
+		For java it took 8 minute and 24 seconds which means java crashed
+		because it exceeded the time limit.
